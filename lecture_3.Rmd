@@ -3,9 +3,7 @@ title: "Lecture 3"
 author: "Tiffany"
 date: 2026-09-15
 output:
-  html_document:
-    toc: TRUE
-    toc_float: TRUE
+  github_document
 ---
 
 I'm an R Markdown document! 
